@@ -8,8 +8,9 @@ import Skills from '../components/skills/Skills'
 import Projects from '../components/projects/Projects'
 import Experiences from '../components/experiences/Experiences'
 import Contact from '../components/Contact'
-import CallToAction from '../components/CallToAction'
+// import CallToAction from '../components/CallToAction'
 import Footer from '../components/Footer'
+import WhatsAppIcon from '../components/WhatsAppIcon '
 const Home = () => {
     return (
         <>
@@ -19,10 +20,11 @@ const Home = () => {
             <About  aboutData={data.about} name={data.main.name} />
             <Skills skillData={data.skills} />
             <Projects projectsData={data.projects} />
-            <Experiences experienceData={data.experiences} educationData={data.educations} />
+            <Experiences experienceData={data.experiences} educationData={data.educations} testonomialData = {data.testimonials} />
             <Contact />
             {/* <CallToAction /> */}
             <Footer socials={data.socials} name={data.main.name} />
+            <WhatsAppIcon />
         </>
     )
 }

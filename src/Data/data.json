@@ -19,14 +19,14 @@
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Developer",
-    "about": "I am a skilled and versatile software engineer with expertise in full-stack development. With a passion for problem-solving and a deep understanding of various programming languages and technologies, I strive to create efficient and innovative solutions. My portfolio showcases a diverse range of projects, demonstrating my commitment to delivering high-quality, user-centric applications.",
-    "callUrl": "",
+    "about": "Hello! I’m Imran Younas, a passionate Full Stack Developer with over 2 years of business experience at Cygnis Media in Karachi, Pakistan. I specialize in front-end and back-end engineering, skillfully navigating frameworks like ReactJS, NodeJS, and the MERN stack to deliver high-quality web applications Whether you are a startup looking to build your product from scratch or a business aiming to grow your digital presence, I can provide you with a customized solution to meet your needs role. My approach focuses on delivering scalable, efficient and robust applications.",
+    "callUrl": "https://calendly.com/imran-younas/15min",
     "resumeUrl": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1684321011/WhatsApp_Image_2023-05-17_at_3.55.56_PM_xowaj6.jpg"
   },
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/feed/"
+      "link": "https://www.linkedin.com/in/imran-younas-2b9a90205/"
     },
     {
       "icon": "FaGithub",
@@ -34,7 +34,7 @@
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/careerlogy.imran/"
+      "link": "https://www.instagram.com/imran_younas87/"
     },
     {
       "icon": "FaTwitter",
@@ -42,13 +42,33 @@
     },
     {
       "icon": "FaMedium",
-      "link": "https://medium.com"
+      "link": "https://medium.com/@imranyounaskaa123"
     }
   ],
   "skills": [
     {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/typescript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/plasticine/144/null/react.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Next.js",
+      "image": "https://img.icons8.com/color/144/null/nextjs--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Veu JS",
+      "image": "https://img.icons8.com/?size=48&id=BUnExfsRs3CW&format=png",
       "category": "Frontend"
     },
     {
@@ -68,7 +88,7 @@
     },
     {
       "name": "Framer Motion",
-      "image": "https://img.icons8.com/ios-glyphs/144/null/Framer.png",
+      "image": "https://miro.medium.com/v2/resize:fit:624/format:webp/0*Z-jwqyt2k8NbHaQe.png",
       "category": "Frontend"
     },
     {
@@ -92,23 +112,18 @@
       "category": "Frontend"
     },
     {
-      "name": "React",
-      "image": "https://img.icons8.com/plasticine/144/null/react.png",
-      "category": "Frontend"
-    },
-    {
       "name": "Node.js",
       "image": "https://img.icons8.com/color/144/null/nodejs.png",
       "category": "Backend"
     },
     {
       "name": "Express.js",
-      "image": "https://img.icons8.com/ios-filled/144/null/expressjs.png",
+      "image": "https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png",
       "category": "Backend"
     },
     {
-      "name": "Python",
-      "image": "https://img.icons8.com/color/144/null/python.png",
+      "name": "WebSocket",
+      "image": "https://socket.io/images/logo.svg",
       "category": "Backend"
     },
     {
@@ -117,14 +132,49 @@
       "category": "Database"
     },
     {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/?size=50&id=39855&format=png",
+      "category": "Database"
+    },
+    {
       "name": "MongoDB",
       "image": "https://img.icons8.com/color/144/null/mongodb.png",
       "category": "Database"
     },
     {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "name": "PostgreSQL",
+      "image": "https://img.icons8.com/?size=50&id=36440&format=png",
+      "category": "Database"
+    },
+    {
+      "name": "redis",
+      "image": "https://img.icons8.com/color/144/null/redis.png",
       "category": "Backend"
+    },
+    {
+      "name": "Cron Job",
+      "image": "https://img.icons8.com/?size=64&id=112497&format=png",
+      "category": "Backend"
+    },
+    {
+      "name": "Job Queue",
+      "image": "https://raw.githubusercontent.com/OptimalBits/bull/60fa88f08637f0325639988a3f054880a04ce402/support/logo%402x.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Payment Integration",
+      "image": "https://img.icons8.com/?size=100&id=215&format=png",
+      "category": "Backend"
+    },
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+      "category": "DevOps"
+    },
+    {
+      "name": "GitHub Action",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "DevOps"
     },
     {
       "name": "Docker",
@@ -134,11 +184,6 @@
     {
       "name": "Kubernetes",
       "image": "https://img.icons8.com/color/144/null/kubernetes.png",
-      "category": "DevOps"
-    },
-    {
-      "name": "AWS",
-      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
       "category": "DevOps"
     },
     {
@@ -177,6 +222,21 @@
       "category": "Tools"
     },
     {
+      "name": "Sublime Merge",
+      "image": "https://img.icons8.com/?size=64&id=UCgJoZGoeBg1&format=png",
+      "category": "Tools"
+    },
+    {
+      "name": "Postman",
+      "image": "https://img.icons8.com/?size=24&id=EPbEfEa7o8CB&format=png",
+      "category": "Tools"
+    },
+    {
+      "name": "Api Dog",
+      "image": " https://assets.apidog.com/static/logo/favicon.ico",
+      "category": "Tools"
+    },
+    {
       "name": "RESTful APIs",
       "image": "https://img.icons8.com/dusk/144/null/api-settings.png",
       "category": "APIs"
@@ -187,8 +247,13 @@
       "category": "APIs"
     },
     {
-      "name": "REST",
-      "image": "https://img.icons8.com/color/144/null/api-settings.png",
+      "name": "API Validation",
+      "image": "https://img.icons8.com/?size=48&id=22856&format=png",
+      "category": "APIs"
+    },
+    {
+      "name": "API Documentation",
+      "image": "https://img.icons8.com/?size=64&id=UR9WNLMA7zim&format=png",
       "category": "APIs"
     },
     {
@@ -205,71 +270,9 @@
       "name": "macOS",
       "image": "https://img.icons8.com/color/144/null/mac-os.png",
       "category": "OS"
-    },
-    {
-      "name": "Artificial Intelligence (AI)",
-      "image": "https://img.icons8.com/color/144/null/ai.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Blockchain",
-      "image": "https://img.icons8.com/color/144/null/blockchain.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Cybersecurity",
-      "image": "https://img.icons8.com/color/144/null/cyber-security.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Cloud Computing",
-      "image": "https://img.icons8.com/color/144/null/cloud.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Virtual Reality (VR)",
-      "image": "https://img.icons8.com/color/144/null/virtual-reality.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Augmented Reality (AR)",
-      "image": "https://img.icons8.com/color/144/null/augmented-reality.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "Robotics",
-      "image": "https://img.icons8.com/color/144/null/robot.png",
-      "category": "Emerging Tech"
-    },
-    {
-      "name": "REST API Design",
-      "image": "https://img.icons8.com/dusk/144/null/api-settings.png",
-      "category": "APIs"
-    },
-    {
-      "name": "Security Standard",
-      "image": "https://img.icons8.com/dusk/144/null/security-checked.png",
-      "category": "Backend"
-    },
-    {
-      "name": "Database Management",
-      "image": "https://img.icons8.com/color/144/null/database.png",
-      "category": "Database"
     }
   ],
   "projects": [
-    {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "sdss",
-        "video": "sds",
-        "visit": "dsd"
-      }
-    },
-    
     {
       "name": "Car Rent web Application",
       "techstack": "Nextjs, reactjs, JavaScript, tailwind css",
@@ -346,19 +349,9 @@
         "video": "sds",
         "visit": "dsd"
       }
-    },
-    {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "Frontend",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "sdss",
-        "video": "sds",
-        "visit": "dsd"
-      }
     }
   ],
+
   "educations": [
     {
       "institute": "Sir Syed Secondary School",
@@ -406,6 +399,39 @@
         "I also contribute to DevOps practices, ensuring seamless deployment and continuous integration for our projects.",
         "With a passion for learning, I constantly explore and integrate new technologies to optimize performance and enhance user experiences.",
         "Skills: Node.js, MySQL, MongoDB, FHIR, DevOps, REST APIs, Agile Methodologies, Software Architecture, Cloud Services, and more."
+      ]
+    },
+    {
+      "company": "Cygnis Media",
+      "position": "Full Stack Engineer",
+      "duration": "2023 - 2024",
+      "desc": [
+        "As a Full Stack Engineer at Cygnis Media, I was deeply involved in developing and maintaining web applications using a comprehensive tech stack.",
+        "My responsibilities encompassed both front-end and back-end development tasks, where I extensively utilized technologies such as Next.js, React.js, Node.js, Express.js, MySQL, and Sequelize.",
+        "I actively participated in designing and implementing RESTful APIs, integrating databases, and ensuring the efficient processing and storage of data.",
+        "Moreover, I played a significant role in setting up and managing cron jobs and job queues for handling background tasks and scheduling.",
+        "Working within an agile framework, I collaborated closely with cross-functional teams to deliver high-quality solutions, meeting project objectives and timelines.",
+        "Skills: Next.js, React.js, Node.js, Express.js, MySQL, Sequelize, RESTful APIs, Cron Jobs, Job Queue, Front-end Development, Back-end Development, and more."
+      ]
+    }    
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Smith",
+      "position": "CTO, XYZ Corporation",
+      "testimonial": true,
+      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1709458927/recommend2_vtctmi.png",
+      "desc": [
+        "Working with Imran was a pleasure. He is highly skilled in both frontend and backend development. His ability to understand complex requirements and turn them into elegant solutions is impressive. I look forward to working with him again in the future."
+      ]
+    },
+    {
+      "name": "John Doe",
+      "position": "CEO, ABC Company",
+      "testimonial": true,
+      "image": "https://res.cloudinary.com/dahc6jdzl/image/upload/v1709458781/recommend1_k5ygrg.png",
+      "desc": [
+        "Imran is an exceptional developer. His attention to detail and problem-solving skills are unmatched. He delivered our project on time and exceeded our expectations. I highly recommend him for any development project."
       ]
     }
   ]
